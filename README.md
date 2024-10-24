@@ -1,6 +1,7 @@
 # Loan Default Prediction Model - LoanAnalytics Inc.
 
-https://www.google.com/imgres?q=loan%20default%20prediction%20image&imgurl=https%3A%2F%2Fcdn.prod.website-files.com%2F5fbe376a36d4106214faaf3c%2F6127d69560df5dbad016a5b6_10-OpenGraphImage-LoanDefaults.png&imgrefurl=https%3A%2F%2Fwww.obviously.ai%2Fcase-studies%2Fpredict-defaults&docid=L4LjyhWLXYKFQM&tbnid=nHsOPXfJ8WMV7M&vet=12ahUKEwj0_7vqq6aJAxX3l68BHVSxF4kQM3oECBgQAA..i&w=1200&h=628&hcb=2&ved=2ahUKEwj0_7vqq6aJAxX3l68BHVSxF4kQM3oECBgQAA
+![loan](https://github.com/user-attachments/assets/9d8453ea-97db-4018-b5fd-bfaf1e030dc1)
+
 
 ## Overview
 This project aims to develop an automated loan default prediction model that helps LoanAnalytics Inc. identify high-risk borrowers early in the loan approval process. By leveraging historical loan data and machine learning algorithms, the model will predict the likelihood of borrower defaults, streamline the loan approval process, and minimize financial losses.
